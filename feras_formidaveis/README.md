@@ -1,4 +1,4 @@
-# Feras formidáveis
+# Feras formidáveis 🐲
 
 ## 4.1. Quem classifica a rede classificadora?
 **Dupla:** Adrian Paz e Gabriel Viégas 
