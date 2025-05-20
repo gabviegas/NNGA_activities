@@ -9,3 +9,8 @@
 **Dupla:** Ana P. Loss e Gabriel Viégas
 
 **Status:** Finalizado 👌
+
+## 4.9. A senha de tamanho variável
+**Dupla:** Ana Luz e Gabriel Viégas
+
+**Status:** Finalizado 👌
