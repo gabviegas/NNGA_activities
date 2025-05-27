@@ -6,4 +6,3 @@
 ### 3.4 `__dunder__` 👌
 ### 3.5 Forma, função e ativação 👌
 ### 3.6  A curva de aprendizado 👌
-### 3.7 Comparando as performances 🛠️
