@@ -14,3 +14,8 @@
 **Dupla:** Ana Luz e Gabriel Viégas
 
 **Status:** Finalizado 👌
+
+## 4.12. Novos palíndromos
+**Dupla:** Gabriel Viégas
+
+**Status:** Finalizado 👌
