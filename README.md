@@ -9,3 +9,5 @@ As pastas definidas a partir do ``main`` se referem aos dois tipos de atividade:
 - Feras formidáveis: Atividades em dupla ou trio, identificadas pelo número no pdf orientador da disciplina. O grupo estará descrito no próprio caderno, bem como as demais informações relevantes.
 
 Se houver necessidade, haverá a deposição de uma pasta com o número da atividade que abarcará todos os arquivos necessários para a resolução dela. A justificativa estará no caderno Jupyter depositado dentro da pasta.
+
+As atividades desenvolvidas foram realizadas com base nos materias da disciplina de Redes Neurais e Algoritmos Genéticos, produzidos pelo professor Dr. Daniel Cassar, em 2025.
